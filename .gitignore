@@ -1,0 +1,18 @@
+# Directories to ignore
+\images
+\laser_decorrelation_images
+\laser_decorrelation_images_ncc
+\do_not_delete_laser_decorrelation_results
+\.vscode
+\lib
+\build
+\Results
+\Results_2
+\Calib_Results
+\Error_Analysis_Results
+\TM_1_Results
+\TM_2_Results
+\TM_3_Results
+\TM_4_Results
+\TM_Avg_Results
+\laser_decorrelation_results
